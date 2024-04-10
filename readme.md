@@ -7,7 +7,7 @@ To optimize performance and reduce latency, this search engine leverages Groq, a
 
 By integrating Groq into the search engine, we ensure that users experience minimal delays when querying the language model, resulting in a more responsive and seamless search experience.
 
-For more information about Groq, visit [https://groq.ai](https://groq.ai).
+
 
 This project is an advanced search engine powered by Langchain Mistral, a state-of-the-art language model. It utilizes cutting-edge natural language processing (NLP) techniques to provide users with accurate and relevant search results.
 
